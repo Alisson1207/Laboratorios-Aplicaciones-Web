@@ -32,6 +32,11 @@ Los temas realizados en los ejercicios son:
 
 
 
+## Author
+
+- [@Alisson1207](https://github.com/Alisson1207)
+
+
 
 
 
