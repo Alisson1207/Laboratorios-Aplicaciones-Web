@@ -13,4 +13,3 @@ module.exports = {
     AMIGOS
 };
 
-module.exports.NUMERO_AMIGOS = 300;
